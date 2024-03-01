@@ -1,0 +1,11 @@
+{
+    "prodi": [
+      {
+        "id":"12",
+        "jurusan": "RPL",
+        "pelajaran": "Javascript",
+        "jadwal": "Senin - Kamis",
+        "materi": "Mempelajari cara dan pengertian yang ada di programing hingga lancar dan ahli"
+    }
+    ]
+}
